@@ -1,0 +1,13 @@
+1. Phân tích
+    - header
+    - slider
+    - containter
+    - content
+        + About
+        + Tour
+        + Contact
+        + Image
+    - Footer
+2. Dựng base
+3. Xây dựng từng phần theo phân tích
+4. Hoàn thiện
